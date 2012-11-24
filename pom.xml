@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>backbone-eventbinder</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Backbone.EventBinder</name>
     <description>WebJar for Backbone.EventBinder</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/backbone-eventbinder</url>
         <connection>scm:git:https://github.com/webjars/backbone-eventbinder.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/backbone-eventbinder.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>backbone-eventbinder-1.0.0</tag>
     </scm>
 
     <developers>
